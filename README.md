@@ -18,9 +18,9 @@ Aquí tienes algunos de mis proyectos destacados:
 ¡Me encantaría conectarme contigo y hablar sobre programación y proyectos interesantes!
 
 - 🌐 [Sitio web](En proceso)
-- 📧 [Correo electrónico](tu correo electrónico)
+- 📧 [Correo electrónico](rommeljoshuarizolopez@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/rommel-rizo-06365063/)
 - 📱 [WhatsApp](https://wa.link/5fcjoc)
-- 💬 [Telegram](enlace a tu perfil de Telegram)
+- 💬 [Telegram](https://t.me/@Rommel_josh)
 
 ¡Hagamos magia con el código juntos! ✨💻
