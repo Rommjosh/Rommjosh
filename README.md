@@ -12,7 +12,7 @@ Soy un apasionado de la programación y me encanta explorar nuevas tecnologías 
 Además de la programación, también soy un entusiasta de la astronomía. Me fascina el estudio de los astros y el universo. Siempre estoy dispuesto a conversar sobre las últimas noticias y descubrimientos en el campo de la astronomía.
 
 ## Contacto 📬🌟
-¡Me encantaría conectarme contigo y hablar sobre programación, astronomía y proyectos interesantes!
+¡Me encantaría conectarme contigo, hablar sobre programación, astronomía y proyectos interesantes!
 
 - 🌐 [Sitio web](En proceso)
 - 📧 [Correo electrónico](rommeljoshuarizolopez@gmail.com)
@@ -30,5 +30,5 @@ Mejor estudiante de Informática Educativa Virtual, 2021
 
 Mejor estudiante de Informática Educativa Virtual, 2022
 ##
-
+"Un buen programador no solo resuelve problemas, sino que también los previene." - Linus Torvalds
 
