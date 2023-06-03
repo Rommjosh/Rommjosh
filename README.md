@@ -1,5 +1,5 @@
 # ¡Hola! Soy Rommel Josh ✨👋
-[![Banner](./banner.png)](https://www.canva.com/design/DAFkyhXZoe4/vq7Wa_zLHzxuPYSlMomodA/watch)
+[![Video](https://www.canva.com/design/DAFkyhXZoe4/Fiyf_MMDqUQxbl8HI3Ws7A/watch?utm_content=DAFkyhXZoe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)](https://www.canva.com/design/DAFkyhXZoe4/Fiyf_MMDqUQxbl8HI3Ws7A/watch?utm_content=DAFkyhXZoe4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## 👨‍💻🌟
 Soy un apasionado de la programación y me encanta explorar nuevas tecnologías y desafíos. Disfruto trabajando en proyectos que involucren programación creativa y soluciones innovadoras.
