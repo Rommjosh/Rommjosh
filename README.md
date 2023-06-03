@@ -22,5 +22,5 @@ Además de la programación, también soy un entusiasta de la astronomía. Me fa
 
 ¡Hagamos magia con el código y exploremos las estrellas juntos! ✨💻🌌
 
-![Mejor Estudiante de Informatica Educativa, Managua 2022](Trofeo.png)
+[![Mejor estudiante de Informática Educativa Virtual, 2022](Trofeo.png)](enlace/a/más/información)
 
