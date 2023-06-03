@@ -1,4 +1,5 @@
 # ¡Hola! Soy Rommel Josh ✨👋
+[![Banner](./banner.png)](https://www.ejemplo.com)
 
 ## 👨‍💻🌟
 Soy un apasionado de la programación y me encanta explorar nuevas tecnologías y desafíos. Disfruto trabajando en proyectos que involucren programación creativa y soluciones innovadoras.
