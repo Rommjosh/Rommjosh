@@ -1,6 +1,6 @@
-# ¡Hola! Soy [Rommel Josh] ✨👋
+# ¡Hola! Soy Rommel Josh ✨👋
 
-## Sobre mí 👨‍💻🌟
+## 👨‍💻🌟
 Soy un apasionado de la programación y me encanta explorar nuevas tecnologías y desafíos. Disfruto trabajando en proyectos que involucren programación creativa y soluciones innovadoras.
 
 - 👨‍💻 Tengo experiencia en varios lenguajes de programación, como Python, JavaScript y C++.
