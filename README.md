@@ -26,6 +26,9 @@ Además de la programación, también soy un entusiasta de la astronomía. Me fa
 
 Mejor estudiante de Informática Educativa Virtual, 2021
 ##
+[![Mejor estudiante de Informática Educativa Virtual, 2022](Trofeo1.png)](enlace/a/más/información)
 
+Mejor estudiante de Informática Educativa Virtual, 2022
+##
 
 
